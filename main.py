@@ -1,36 +1,27 @@
-import requests
-from bs4 import BeautifulSoup
+
 import json
+from util.utils import product_details, html_content, get_next_page
 url = "https://www.flipkart.com/search?q=mobiles"
 
 
-content = requests.get(url)
-htmlContent = content.content
 
 
-soup = BeautifulSoup(htmlContent, 'html5lib')
-
-list_of_product = []
-
+soup = html_content(url)
 divs = soup.find_all("div",{"class": "_2kHMtA"})
 
+list_of_product = product_details(divs, list_of_product=[])
 
-for div in divs:
-    product_name = div.find('div', {"class" : "_4rR01T"})
-    product_rating = div.find('div', {"class": "_3LWZlK"})
-    product_discription = div.find('div',{"class" : "fMghEO"})
-    product_price = div.find('div', {"class":"nlI3QM"})
-    
-    
-    product = {
-        'name' : product_name.text,
-        'rating' : product_rating.text,
-        'discription' : product_discription.text,
-        'price' : product_price.text
-    }
+# print(list_of_product)
+# nextpage = get_next_page(url)
 
 
-    list_of_product.append(product)
 
 with open('data.json', 'w')as f:
     json.dump(list_of_product, f) 
+
+# with open('data.json', 'w')as f:
+#     json_data = json.dumps(list_of_product)
+#     print(json_data, 'abcd')
+#     json.dump(json_data, f)
+# #json.load([list_of_product])        
+        
