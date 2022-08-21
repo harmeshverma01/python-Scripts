@@ -22,6 +22,8 @@
 
 import requests
 from bs4 import BeautifulSoup
+url = "https://www.flipkart.com/search?q=mobiles"
+
 
 
 def product_details(divs, list_of_product):
@@ -54,5 +56,9 @@ def html_content(url):
 def get_next_page(url):
     soup = html_content(url)
     nextpage = soup.find('a', {'class' : '_1LKTO3'})
-    return (nextpage)
-        
+    if not nextpage.find('span',{'class' : '_22Tduf'}):
+        url = 'www.flipkart.com' + str(soup.find('span', {'class' : '_22Tduf'})).find('a',[href])
+        return (url)
+    else:
+        return
+    
