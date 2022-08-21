@@ -21,9 +21,8 @@ while True:
         break
     print(url)
 
-
 with open('data.json', 'w')as f:
-    json.dump(url, f) 
+    json.dump(list_of_product, f) 
 
 # with open('data.json', 'w')as f:
 #     json_data = json.dumps(list_of_product)
