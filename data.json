@@ -1,5 +1,10 @@
 [
     {
+        "name": "REDMI Note 10S (Frost White, 64 GB)",
+        "discription": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.33 cm (6.43 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP + 2MP | 13MP Front Camera5000 mAh Lithium-Ploymer BatteryMediatek Helio G95 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "price": "\u20b912,499\u20b916,99926% off"
+    },
+    {
         "name": "realme C25_Y (Metal Grey, 128 GB)",
         "discription": "4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
         "price": "\u20b911,999\u20b913,99914% offFree deliveryUpto \u20b911,250 Off on ExchangeBank Offer"
@@ -10,14 +15,14 @@
         "price": "\u20b910,999\u20b912,99915% off"
     },
     {
+        "name": "Good One 5026",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera2500 mAh Battery12 Months Warranty",
+        "price": "\u20b9999Free deliveryBank Offer"
+    },
+    {
         "name": "realme C31 (Light Silver, 32 GB)",
         "discription": "3 GB RAM | 32 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
         "price": "\u20b99,299\u20b910,99915% offFree deliveryHot DealUpto \u20b98,750 Off on Exchange"
-    },
-    {
-        "name": "IAIR Basic Feature Dual Sim Mobile Phone with 2800mAh Battery, 2.4 inch Display Screen, 0.8 mp Camera ...",
-        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB6.1 cm (2.4 inch) Display0.8MP + 0.8MP2800 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
-        "price": "\u20b92,099Free deliveryBank Offer"
     },
     {
         "name": "realme C31 (Dark Green, 32 GB)",
@@ -30,19 +35,29 @@
         "price": "\u20b99,999\u20b911,99916% offFree deliveryHot DealUpto \u20b99,250 Off on Exchange"
     },
     {
-        "name": "realme C25_Y (Glacier Blue, 64 GB)",
-        "discription": "4 GB RAM | 64 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
-        "price": "\u20b910,999\u20b912,99915% off"
+        "name": "IAIR D24",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,099Free deliveryBank Offer"
     },
     {
-        "name": "IAIR D40",
-        "discription": "32 MB RAM | 32 MB ROM5.08 cm (2 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
-        "price": "\u20b91,319Free deliveryBank Offer"
+        "name": "REDMI Note 10S (Deep Sea Blue, 64 GB)",
+        "discription": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.33 cm (6.43 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP + 2MP | 13MP Front Camera5000 mAh Lithium-Ploymer BatteryMediatek Helio G95 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "price": "\u20b912,499\u20b916,99926% off"
     },
     {
-        "name": "POCO C31 (Royal Blue, 64 GB)",
-        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.59 cm (6.53 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh Lithium-ion Polymer BatteryMediaTek G35 Processor1 Year Warranty for Handset, 6 Months for Accessories",
-        "price": "\u20b99,499\u20b911,99920% offFree deliveryHot DealUpto \u20b98,750 Off on Exchange"
+        "name": "realme C31 (Light Silver, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,999\u20b911,99916% offFree deliveryHot DealUpto \u20b99,250 Off on Exchange"
+    },
+    {
+        "name": "realme C25_Y (Glacier Blue, 128 GB)",
+        "discription": "4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
+        "price": "\u20b911,999\u20b913,99914% offFree deliveryUpto \u20b911,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "IAIR D23",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b9996\u20b91,0293% offFree deliveryBank Offer"
     },
     {
         "name": "realme 9 5G (Supersonic Blue, 64 GB)",
@@ -55,14 +70,19 @@
         "price": "\u20b915,999\u20b918,99915% offFree deliveryUpto \u20b915,250 Off on ExchangeBank Offer"
     },
     {
-        "name": "IAIR Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.77 inch Display Screen, 0.8 mp Camera...",
-        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.5 cm (1.77 inch) Display0.8MP + 0.8MP1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
-        "price": "\u20b91,499Free deliveryBank Offer"
+        "name": "Infinix HOT 12 Play (Daylight Green, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
+        "price": "\u20b98,499\u20b911,99929% off"
     },
     {
-        "name": "realme C31 (Light Silver, 64 GB)",
-        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
-        "price": "\u20b99,999\u20b911,99916% offFree deliveryHot DealUpto \u20b99,250 Off on Exchange"
+        "name": "IAIR Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.7 inch Display Screen, 0.8 mp Camera ...",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.5 cm (1.77 inch) Display0.8MP + 0.8MP1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,349Free deliveryBank Offer"
+    },
+    {
+        "name": "Infinix HOT 12 Play (Horizon Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
+        "price": "\u20b98,499\u20b911,99929% offFree deliveryHot DealUpto \u20b97,750 Off on Exchange"
     },
     {
         "name": "OPPO K10 5G (Midnight Black, 128 GB)",
@@ -70,34 +90,14 @@
         "price": "\u20b916,499\u20b920,99921% offFree deliveryHot DealUpto \u20b915,500 Off on Exchange"
     },
     {
-        "name": "Infinix HOT 12 Play (Daylight Green, 64 GB)",
-        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
-        "price": "\u20b98,499\u20b911,99929% off"
+        "name": "realme 9 5G (Supersonic Blue, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b917,499\u20b920,99916% offFree deliveryHot DealBank Offer"
     },
     {
-        "name": "IAIR S19",
-        "discription": "32 MB RAM | 32 MB ROM6.1 cm (2.4 inch) NA Display0.8MP Rear Camera2800 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
-        "price": "\u20b91,539Free deliveryBank Offer"
-    },
-    {
-        "name": "Infinix HOT 12 Play (Champagne Gold, 64 GB)",
-        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
-        "price": "\u20b98,499\u20b911,99929% offFree deliveryHot DealBank Offer"
-    },
-    {
-        "name": "Infinix HOT 12 Play (Horizon Blue, 64 GB)",
-        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
-        "price": "\u20b98,499\u20b911,99929% off"
-    },
-    {
-        "name": "realme 9 5G (Meteor Black, 64 GB)",
-        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
-        "price": "\u20b915,999\u20b918,99915% offFree deliveryHot DealUpto \u20b915,250 Off on Exchange"
-    },
-    {
-        "name": "IAIR D24",
-        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
-        "price": "\u20b91,099Free deliveryBank Offer"
+        "name": "IAIR D40",
+        "discription": "32 MB RAM | 32 MB ROM5.08 cm (2 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,319Free deliveryBank Offer"
     },
     {
         "name": "realme 9 5G (Supersonic Black, 128 GB)",
@@ -110,13 +110,376 @@
         "price": "\u20b915,999\u20b918,99915% offFree deliveryUpto \u20b915,250 Off on ExchangeBank Offer"
     },
     {
-        "name": "OPPO K10 5G (Ocean Blue, 128 GB)",
+        "name": "realme 9 5G (Meteor Black, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% offFree deliveryHot DealUpto \u20b915,250 Off on Exchange"
+    },
+    {
+        "name": "GREENBERRI GB 310",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera1000 mAh Battery1 Year Warranty",
+        "price": "\u20b9799Free deliveryBank Offer"
+    }
+][
+    {
+        "name": "REDMI Note 10S (Frost White, 64 GB)",
+        "discription": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.33 cm (6.43 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP + 2MP | 13MP Front Camera5000 mAh Lithium-Ploymer BatteryMediatek Helio G95 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "price": "\u20b912,499\u20b916,99926% off"
+    },
+    {
+        "name": "realme C25_Y (Metal Grey, 128 GB)",
+        "discription": "4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
+        "price": "\u20b911,999\u20b913,99914% offFree deliveryUpto \u20b911,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "realme C25_Y (Metal Grey, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
+        "price": "\u20b910,999\u20b912,99915% off"
+    },
+    {
+        "name": "GREENBERRI FOLD",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera1050 mAh Battery1 Year Warranty",
+        "price": "\u20b91,499Free deliveryBank Offer"
+    },
+    {
+        "name": "realme C31 (Light Silver, 32 GB)",
+        "discription": "3 GB RAM | 32 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,299\u20b910,99915% offFree deliveryHot DealUpto \u20b98,750 Off on Exchange"
+    },
+    {
+        "name": "realme C31 (Dark Green, 32 GB)",
+        "discription": "3 GB RAM | 32 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,299\u20b910,99915% offFree deliveryHot DealUpto \u20b98,750 Off on Exchange"
+    },
+    {
+        "name": "realme C31 (Dark Green, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,999\u20b911,99916% offFree deliveryHot DealUpto \u20b99,250 Off on Exchange"
+    },
+    {
+        "name": "Good One 5026",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera2500 mAh Battery12 Months Warranty",
+        "price": "\u20b9999Free deliveryBank Offer"
+    },
+    {
+        "name": "REDMI Note 10S (Deep Sea Blue, 64 GB)",
+        "discription": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.33 cm (6.43 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP + 2MP | 13MP Front Camera5000 mAh Lithium-Ploymer BatteryMediatek Helio G95 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "price": "\u20b912,499\u20b916,99926% off"
+    },
+    {
+        "name": "realme C31 (Light Silver, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,999\u20b911,99916% offFree deliveryHot DealUpto \u20b99,250 Off on Exchange"
+    },
+    {
+        "name": "realme C25_Y (Glacier Blue, 128 GB)",
+        "discription": "4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
+        "price": "\u20b911,999\u20b913,99914% offFree deliveryUpto \u20b911,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "IAIR D24",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,099Free deliveryBank Offer"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% offFree deliveryHot DealBank Offer"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Black, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% offFree deliveryUpto \u20b915,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "Infinix HOT 12 Play (Daylight Green, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
+        "price": "\u20b98,499\u20b911,99929% off"
+    },
+    {
+        "name": "IAIR D23",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b9996\u20b91,0293% offFree deliveryBank Offer"
+    },
+    {
+        "name": "Infinix HOT 12 Play (Horizon Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
+        "price": "\u20b98,499\u20b911,99929% offFree deliveryHot DealUpto \u20b97,750 Off on Exchange"
+    },
+    {
+        "name": "OPPO K10 5G (Midnight Black, 128 GB)",
         "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.66 cm (6.56 inch) HD+ Display48MP + 2MP | 8MP Front Camera5000 mAh Lithium Ion Polymer BatteryMediatek Dimensity 810 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
         "price": "\u20b916,499\u20b920,99921% offFree deliveryHot DealUpto \u20b915,500 Off on Exchange"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Blue, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b917,499\u20b920,99916% offFree deliveryHot DealBank Offer"
     },
     {
         "name": "IAIR Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.7 inch Display Screen, 0.8 mp Camera ...",
         "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.5 cm (1.77 inch) Display0.8MP + 0.8MP1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
         "price": "\u20b91,349Free deliveryBank Offer"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Black, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b917,499\u20b920,99916% offFree deliveryHot DealBank Offer"
+    },
+    {
+        "name": "realme 9 5G (Stargaze White, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% offFree deliveryUpto \u20b915,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "realme 9 5G (Meteor Black, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% offFree deliveryHot DealUpto \u20b915,250 Off on Exchange"
+    },
+    {
+        "name": "IAIR D40",
+        "discription": "32 MB RAM | 32 MB ROM5.08 cm (2 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,319Free deliveryBank Offer"
+    }
+][
+    {
+        "name": "POCO C31 (Royal Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.59 cm (6.53 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh Lithium-ion Polymer BatteryMediaTek G35 Processor1 Year Warranty for Handset, 6 Months for Accessories",
+        "price": "\u20b97,999\u20b911,99933% offFree deliveryUpto \u20b97,450 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "POCO C31 (Shadow Gray, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.59 cm (6.53 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh Lithium-ion Polymer BatteryMediaTek Helio G35 Processor1 Year Warranty for Handset, 6 Months for Accessories",
+        "price": "\u20b97,999\u20b911,99933% offFree deliveryUpto \u20b97,450 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "Infinix Note 12 (Force Black, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB17.02 cm (6.7 inch) Full HD+ AMOLED Display50MP + 2MP Depth + AI Lens | 16MP Front Camera5000 mAh Li-ion Polymer BatteryMediaTek Helio G88 Processor1 Year on Handset and 6 Months on Accessories",
+        "price": "\u20b910,499\u20b915,99934% offFree deliveryUpto \u20b99,750 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "Good One 5026",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera2500 mAh Battery12 Months Warranty",
+        "price": "\u20b9999Free deliveryBank Offer"
+    },
+    {
+        "name": "realme 9 5G (Stargaze White, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b917,499\u20b920,99916% offFree deliveryHot DealUpto \u20b916,750 Off on Exchange"
+    },
+    {
+        "name": "REDMI 9i Sport (Metallic Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.59 cm (6.53 inch) HD+ Display13MP Rear Camera | 5MP Front Camera5000 mAh Li-Polymer BatteryMediaTek Helio G25 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+        "price": "\u20b98,799\u20b99,99912% offFree deliveryUpto \u20b98,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "OPPO K10 5G (Ocean Blue, 128 GB)",
+        "discription": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.66 cm (6.56 inch) HD+ Display48MP + 2MP | 8MP Front Camera5000 mAh Lithium Ion Polymer BatteryMediatek Dimensity 810 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b917,499\u20b925,99932% offFree deliveryUpto \u20b916,750 Off on ExchangeNo Cost EMI from \u20b92,917/month"
+    },
+    {
+        "name": "IAIR D24",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,099Free deliveryBank Offer"
+    },
+    {
+        "name": "SAMSUNG Galaxy F12 (Sea Green, 128 GB)",
+        "discription": "4 GB RAM | 128 GB ROM | Expandable Upto 512 GB16.55 cm (6.515 inch) HD+ Display48MP + 5MP + 2MP + 2MP | 8MP Front Camera6000 mAh Lithium-ion BatteryExynos 850 Processor1 Year Warranty Provided by the Manufacturer from Date of Purchase",
+        "price": "\u20b911,499\u20b913,99917% offFree deliveryUpto \u20b910,750 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "POCO C31 (Shadow Gray, 32 GB)",
+        "discription": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB16.59 cm (6.53 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh Lithium-ion Polymer BatteryMediaTek Helio G35 Processor1 Year Warranty for Handset, 6 Months for Accessories",
+        "price": "\u20b96,999\u20b910,99936% offFree deliveryUpto \u20b96,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "SAMSUNG Galaxy F12 (Sky Blue, 128 GB)",
+        "discription": "4 GB RAM | 128 GB ROM | Expandable Upto 512 GB16.55 cm (6.515 inch) HD+ Display48MP + 5MP + 2MP + 2MP | 8MP Front Camera6000 mAh Lithium-ion BatteryExynos 850 Processor1 Year Warranty Provided by the Manufacturer from Date of Purchase",
+        "price": "\u20b911,499\u20b913,99917% offFree deliveryHot DealUpto \u20b910,750 Off on Exchange"
+    },
+    {
+        "name": "IAIR D23",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b9996\u20b91,0293% offFree deliveryBank Offer"
+    },
+    {
+        "name": "realme 8s 5G (Universe Purple, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display64MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 810 5G Processor33 W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+        "price": "\u20b917,999\u20b920,99914% offFree deliveryUpto \u20b917,000 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "Infinix Note 12 (Jewel Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB17.02 cm (6.7 inch) Full HD+ AMOLED Display50MP + 2MP Depth + AI Lens | 16MP Front Camera5000 mAh Li-ion Polymer BatteryMediaTek Helio G88 Processor1 Year on Handset and 6 Months on Accessories",
+        "price": "\u20b910,499\u20b915,99934% offFree deliveryUpto \u20b99,750 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "realme 8i (Space Purple, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.76 cm (6.6 inch) Full HD+ Display50MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G96 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+        "price": "\u20b913,999\u20b915,99912% off"
+    },
+    {
+        "name": "IAIR Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.7 inch Display Screen, 0.8 mp Camera ...",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.5 cm (1.77 inch) Display0.8MP + 0.8MP1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,349Free deliveryBank Offer"
+    },
+    {
+        "name": "Infinix Smart 6 Plus (Tranquil Sea Blue, 64 GB)",
+        "discription": "3 GB RAM | 64 GB ROM | Expandable Upto 512 GB17.32 cm (6.82 inch) HD+ Display8 MP + Depth Lens | 5MP Front Camera5000 mAh Lithium-ion Polymer BatteryMediatek Helio G25 Processor1 Year on Handset and 6 Months on Accessories",
+        "price": "\u20b97,999\u20b99,99920% offFree deliveryHot DealUpto \u20b97,450 Off on Exchange"
+    },
+    {
+        "name": "REDMI 10 (Pacific Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB17.02 cm (6.7 inch) HD+ Display50MP + 2MP | 5MP Front Camera6000 mAh Lithium Polymer BatteryQualcomm Snapdragon 680 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,999\u20b914,99933% offFree deliveryUpto \u20b99,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "REDMI 9i Sport (Carbon Black, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.59 cm (6.53 inch) HD+ Display13MP Rear Camera | 5MP Front Camera5000 mAh Li-Polymer BatteryMediaTek Helio G25 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+        "price": "\u20b98,799\u20b99,99912% offFree deliveryUpto \u20b98,250 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "IAIR D40",
+        "discription": "32 MB RAM | 32 MB ROM5.08 cm (2 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,319Free deliveryBank Offer"
+    },
+    {
+        "name": "realme Narzo 30 (Racing Silver, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G95 Processor30W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+        "price": "\u20b915,499\u20b916,9998% offFree deliveryUpto \u20b914,750 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "realme C11 2021 (Cool Grey, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryOcta-core Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+        "price": "\u20b98,999\u20b99,99910% offFree deliveryUpto \u20b98,300 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "realme C11 2021 (Cool Grey, 32 GB)",
+        "discription": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryOcta-core Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+        "price": "\u20b97,499\u20b97,9996% offFree deliveryUpto \u20b96,950 Off on ExchangeBank Offer"
+    },
+    {
+        "name": "GREENBERRI GB 310",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera1000 mAh Battery1 Year Warranty",
+        "price": "\u20b9799Free deliveryBank Offer"
+    }
+][
+    {
+        "name": "REDMI Note 10S (Frost White, 64 GB)",
+        "discription": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.33 cm (6.43 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP + 2MP | 13MP Front Camera5000 mAh Lithium-Ploymer BatteryMediatek Helio G95 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "price": "\u20b912,499\u20b916,99926% off"
+    },
+    {
+        "name": "realme C25_Y (Metal Grey, 128 GB)",
+        "discription": "4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
+        "price": "\u20b911,999\u20b913,99914% off"
+    },
+    {
+        "name": "realme C25_Y (Metal Grey, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
+        "price": "\u20b910,999\u20b912,99915% off"
+    },
+    {
+        "name": "Good One 5026",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera2500 mAh Battery12 Months Warranty",
+        "price": "\u20b9999"
+    },
+    {
+        "name": "realme C31 (Light Silver, 32 GB)",
+        "discription": "3 GB RAM | 32 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,299\u20b910,99915% off"
+    },
+    {
+        "name": "realme C31 (Dark Green, 32 GB)",
+        "discription": "3 GB RAM | 32 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,299\u20b910,99915% off"
+    },
+    {
+        "name": "realme C31 (Dark Green, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,999\u20b911,99916% off"
+    },
+    {
+        "name": "IAIR D24",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,099"
+    },
+    {
+        "name": "REDMI Note 10S (Deep Sea Blue, 64 GB)",
+        "discription": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.33 cm (6.43 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP + 2MP | 13MP Front Camera5000 mAh Lithium-Ploymer BatteryMediatek Helio G95 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "price": "\u20b912,499\u20b916,99926% off"
+    },
+    {
+        "name": "realme C31 (Light Silver, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.56 cm (6.52 inch) HD Display13MP + 2MP + 0.3MP | 5MP Front Camera5000 mAh BatteryUnisoc T612 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b99,999\u20b911,99916% off"
+    },
+    {
+        "name": "realme C25_Y (Glacier Blue, 128 GB)",
+        "discription": "4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP + 2MP | 8MP Front Camera5000 mAh LiPo BatteryUnisoc T618 Processor1 Year Domestic Warranty",
+        "price": "\u20b911,999\u20b913,99914% off"
+    },
+    {
+        "name": "IAIR D23",
+        "discription": "32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b9996\u20b91,0293% off"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% off"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Black, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% off"
+    },
+    {
+        "name": "Infinix HOT 12 Play (Daylight Green, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
+        "price": "\u20b98,499\u20b911,99929% off"
+    },
+    {
+        "name": "IAIR Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.7 inch Display Screen, 0.8 mp Camera ...",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.5 cm (1.77 inch) Display0.8MP + 0.8MP1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,349"
+    },
+    {
+        "name": "Infinix HOT 12 Play (Horizon Blue, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13MP + Depth Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryUnisoc T610 Processor1 Year on Handset And 6 Months on Accessories",
+        "price": "\u20b98,499\u20b911,99929% off"
+    },
+    {
+        "name": "POCO C31 (Royal Blue, 32 GB)",
+        "discription": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB16.59 cm (6.53 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh Lithium-ion Polymer BatteryMediaTek Helio G35 Processor1 Year Warranty for Handset, 6 Months for Accessories",
+        "price": "\u20b96,999\u20b910,99936% off"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Black, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b917,499\u20b920,99916% off"
+    },
+    {
+        "name": "IAIR D40",
+        "discription": "32 MB RAM | 32 MB ROM5.08 cm (2 inch) NA Display0.8MP Rear Camera1200 mAh Battery1 Year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+        "price": "\u20b91,319"
+    },
+    {
+        "name": "realme 9 5G (Supersonic Blue, 128 GB)",
+        "discription": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b917,499\u20b920,99916% off"
+    },
+    {
+        "name": "realme 9 5G (Meteor Black, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% off"
+    },
+    {
+        "name": "realme 9 5G (Stargaze White, 64 GB)",
+        "discription": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryMediatek Dimensity 810 Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "price": "\u20b915,999\u20b918,99915% off"
+    },
+    {
+        "name": "GREENBERRI GB 310",
+        "discription": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB4.57 cm (1.8 inch) Display2MP Rear Camera1000 mAh Battery1 Year Warranty",
+        "price": "\u20b9799"
     }
 ]
