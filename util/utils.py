@@ -5,7 +5,10 @@ url = "https://www.flipkart.com/search?q=mobiles"
 def product_details(divs, list_of_product):
     for div in divs:
         product_name = div.find('div', {"class" : "_4rR01T"})
-        product_rating = div.find('div', {"class": "_3LWZlK"})
+        if product_rating:
+            product_rating = div.find('div', {"class": "_3LWZlK"})
+        else:
+            return None    
         product_discription = div.find('div',{"class" : "fMghEO"})
         product_price = div.find('div', {"class":"nlI3QM"})
         
