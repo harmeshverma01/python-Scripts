@@ -8,7 +8,6 @@
 # for page in range(1,300):
 #     content = requests.get(url + str(page) + '/')
 #     soup = BeautifulSoup(content.text, 'html.parser')
-    
 #     title = soup.find_all('div', attrs=({'class': '_1LKTO3'}))
 
 # for i in range(1,300):
@@ -24,8 +23,6 @@ import requests
 from bs4 import BeautifulSoup
 url = "https://www.flipkart.com/search?q=mobiles"
 
-
-
 def product_details(divs, list_of_product):
     for div in divs:
         product_name = div.find('div', {"class" : "_4rR01T"})
@@ -36,12 +33,10 @@ def product_details(divs, list_of_product):
         
         product = {
             'name' : product_name.text,
-            'rating' : product_rating.text,
+            # 'rating' : product_rating.text,
             'discription' : product_discription.text,
             'price' : product_price.text,
         }
-        
-        
         list_of_product.append(product)
     return list_of_product
         
@@ -55,9 +50,11 @@ def html_content(url):
 
 def get_next_page(url):
     soup = html_content(url)
+    print(soup)
     nextpage = soup.find('a', {'class' : '_1LKTO3'})
+    print("SHJNJN: ", nextpage)
     if not nextpage.find('span',{'class' : '_22Tduf'}):
-        url = 'www.flipkart.com' + str(soup.find('span', {'class' : '_22Tduf'})).find('a',[href])
+        url = 'http://www.flipkart.com' + nextpage.attrs['href'] 
         return (url)
     else:
         return
